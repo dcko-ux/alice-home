@@ -24,8 +24,8 @@ purchase, rent, or obtain phone numbers from third parties.
 Mobile information and SMS consent will not be shared with third parties or
 affiliates for marketing or promotional purposes.
 
-[[Privacy Policy](https://dcko-ux.github.io/alice-home/privacy)
+[Privacy Policy](https://dcko-ux.github.io/alice-home/privacy)
 
-[Terms of Service](https://dcko-ux.github.io/alice-home/terms))
+[Terms of Service](https://dcko-ux.github.io/alice-home/terms)
 
 <img width="510" height="218" alt="image" src="https://github.com/user-attachments/assets/87af2d3b-48e5-4e09-9886-96a3414e6c9a" />
