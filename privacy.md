@@ -4,7 +4,7 @@ Alice is a privately operated home assistant used by members of a single househo
 
 Phone numbers are used solely for delivering requested SMS notifications.
 
-No information is sold or shared with third parties.
+Mobile information, phone numbers, and SMS opt-in consent are never sold, rented, or shared with third parties or affiliates for marketing or promotional purposes.
 
 SMS messages are sent only to household members who have explicitly requested notifications.
 
