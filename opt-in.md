@@ -29,3 +29,4 @@ affiliates for marketing or promotional purposes.
 [Terms of Service](https://dcko-ux.github.io/alice-home/terms)
 
 <img width="510" height="218" alt="image" src="https://github.com/user-attachments/assets/87af2d3b-48e5-4e09-9886-96a3414e6c9a" />
+Recipients may request removal at any time by replying STOP or by asking the owner directly.
