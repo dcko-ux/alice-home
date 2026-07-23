@@ -1,7 +1,7 @@
 # Alice SMS Notification Opt-In
 
 Alice is a privately operated home-assistant application managed by
-REGISTERED BRAND NAME.
+ALICE HOME.
 
 SMS service is limited to the application owner and specifically authorized
 members of the owner's household. It is not offered to the public.
